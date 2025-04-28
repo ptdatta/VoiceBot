@@ -1,6 +1,6 @@
 # VoiceBot
 
-A chatbot with text summarization, emotion detection, and sentiment analysis capabilities.
+A chatbot with text summarization, emotion detection, and sentiment analysis capabilities. [Demo](https://www.loom.com/share/4f6692241bdd46b4b15e87aa7489e714?sid=9501b4de-a391-4be6-a017-ad537355f573)
 
 ## Steps to run
 
@@ -11,3 +11,4 @@ A chatbot with text summarization, emotion detection, and sentiment analysis cap
 
 ### **Note:**
 The model size is 7.16 GB, so it is impossible for me to upload it to GitHub, as I am currently working with the GitHub free plan.
+

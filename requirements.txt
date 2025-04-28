@@ -1,0 +1,6 @@
+langchain
+ctransformers
+chainlit
+langchain_community
+openai-whisper
+transformers
